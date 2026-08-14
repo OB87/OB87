@@ -2,5 +2,5 @@
 <div align="center">
 
 sys
-factive heavy: oscar, george, ollie <br>
+factive heavy<br>
 law student, corporate law, human and womens rights activist
